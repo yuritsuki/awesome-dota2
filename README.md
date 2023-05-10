@@ -7,6 +7,7 @@ A curated list of bookmarks, tutorials and other cool resources from the Dota 2 
 * [Startz](https://stratz.com) - Real-time match and player analysis, in-depth statistics
 * [OpenDota](https://www.opendota.com) - Live match tracking, hero and player statistics, and a detailed match history for every player
 * [Spectral stats](https://stats.spectral.gg/lrg2/) - Detailed analysis of Immortal bracket matches and players 
+* [Liquipedia](https://liquipedia.net) - Offers a wealth of information on players, teams, tournaments, and game mechanics
 
 ##### Tips
 * [Dota 2 Wiki](https://dota2.fandom.com) -  Comprehensive wiki for the game
