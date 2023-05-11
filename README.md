@@ -19,6 +19,7 @@ A curated list of bookmarks, tutorials and other cool resources from the Dota 2 
 ##### Utilities
 * [Random hero](https://yuritsuki.github.io/dota2-random/) - Random hero selector
 * [Dotafix](https://dotafix.github.io) - Draft helper
+* [InvokerGame](https://www.invokergame.com) - Helps to develop muscle memory for executing Invoker's spells quickly and accurately
 
 ##### Community
 * [Dota 2](https://www.dota2.com/) - Official website for the game
