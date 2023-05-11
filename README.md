@@ -25,3 +25,6 @@ A curated list of bookmarks, tutorials and other cool resources from the Dota 2 
 * [r/DotA2](https://www.reddit.com/r/DotA2/) - Main subreddit dedicated to the game
 * [r/learndota2](https://www.reddit.com/r/learndota2/) - Subreddit dedicated to helping Dota 2 players improve their skills
 * [r/TrueDoTA2](https://www.reddit.com/r/TrueDoTA2/) - Subreddit dedicated to in-depth discussion and analysis of the game Dota 2
+
+##### Other
+* [Dota 2 Classic](https://dota2classic.com) - Private server that allows players to play Dota 2 in its "classic" version
