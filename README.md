@@ -15,6 +15,7 @@ A curated list of bookmarks, tutorials and other cool resources from the Dota 2 
 
 ##### Builds
 * [Spectral builds](https://builds.spectral.gg) - Builds by high mmr stats and non-standart hero builds
+* [2B's guides](https://steamcommunity.com/id/elitespartan/myworkshopfiles/?section=guides) - Non-standart 4th position hero builds (mostly "core as support").
 
 ##### Utilities
 * [Random hero](https://yuritsuki.github.io/dota2-random/) - Random hero selector
