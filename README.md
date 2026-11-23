@@ -8,6 +8,7 @@ A curated list of bookmarks, tutorials and other cool resources from the Dota 2 
 * [OpenDota](https://www.opendota.com) - Live match tracking, hero and player statistics, and a detailed match history for every player
 * [Spectral stats](https://stats.spectral.gg/lrg2/) - Detailed analysis of Immortal bracket matches and players 
 * [Liquipedia](https://liquipedia.net/dota2/Main_Page) - Offers a wealth of information on players, teams, tournaments, and game mechanics
+* [Dota2 Insight](https://dota2.aimighty.one/?lang=en) - Every official patch change, tagged buff/nerf, with calculators and win-rate trends. Built for Chinese players first (also EN/RU/ES/PT): Chinese localization checked line by line against Valve's text, and search by Chinese community hero and item nicknames
 
 ##### Tips
 * [Dota 2 Wiki](https://dota2.fandom.com) -  Comprehensive wiki for the game
